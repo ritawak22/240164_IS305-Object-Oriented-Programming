@@ -43,4 +43,5 @@ function displayBookings() {
 const booking1 = new MealBooking("Rita Wak", "240164", "Dinner", "2026-07-20", 1, "Chicken Stew");
 addBooking(booking1);
 displayBookings();
+module.exports = MealBooking;
 
