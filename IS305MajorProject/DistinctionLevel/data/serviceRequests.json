@@ -1,0 +1,28 @@
+[
+  {
+    "requestId": "REQ-1",
+    "requestType": "ICTSupportRequest",
+    "requesterId": "S1",
+    "title": "Over Heated RAM",
+    "description": "Too much files, folders and apps causing it to slow dow, freeze and over heated",
+    "location": "ICT Office",
+    "category": "ICT Support",
+    "priority": "Urgent",
+    "status": "Submitted",
+    "assignedTechnicianId": null,
+    "dateSubmitted": "2026-10-22T07:08:06.305Z"
+  },
+  {
+    "requestId": "REQ-2",
+    "requestType": "ICTSupportRequest",
+    "requesterId": "S1",
+    "title": "Broken WiFi",
+    "description": "Couldn't connect to any WiFi",
+    "location": "Lab 133",
+    "category": "ICT Support",
+    "priority": "Normal",
+    "status": "Submitted",
+    "assignedTechnicianId": null,
+    "dateSubmitted": "2026-10-22T07:09:39.217Z"
+  }
+]

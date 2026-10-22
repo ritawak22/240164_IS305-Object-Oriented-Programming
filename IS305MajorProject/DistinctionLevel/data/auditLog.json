@@ -1,0 +1,11 @@
+[
+  {
+    "auditId": "AUD-1",
+    "actorId": "S1",
+    "action": "REQUEST_CREATED",
+    "requestId": "REQ-2",
+    "description": "New request submitted",
+    "dateTime": "2026-10-22T07:09:39.223Z",
+    "outcome": "SUCCESS"
+  }
+]

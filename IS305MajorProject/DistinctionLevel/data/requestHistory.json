@@ -1,0 +1,28 @@
+[
+  {
+    "requestId": "REQ-1",
+    "history": [
+      {
+        "previousStatus": "Submitted",
+        "newStatus": "Submitted",
+        "action": "Created",
+        "actorId": "S1",
+        "comment": "Request initially submitted.",
+        "dateTime": "2026-10-22T07:08:06.305Z"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ-2",
+    "history": [
+      {
+        "previousStatus": "Submitted",
+        "newStatus": "Submitted",
+        "action": "Created",
+        "actorId": "S1",
+        "comment": "Request initially submitted.",
+        "dateTime": "2026-10-22T07:09:39.217Z"
+      }
+    ]
+  }
+]

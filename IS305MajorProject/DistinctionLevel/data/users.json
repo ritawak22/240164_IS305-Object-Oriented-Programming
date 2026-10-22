@@ -1,0 +1,23 @@
+[
+  {
+    "userId": "S1",
+    "firstName": "Rita",
+    "lastName": "Wak",
+    "email": "rita@dwu.ac.pg",
+    "userType": "Student"
+  },
+  {
+    "userId": "O1",
+    "firstName": "Officer",
+    "lastName": "John",
+    "email": "john@dwu.ac.pg",
+    "userType": "Service Officer"
+  },
+  {
+    "userId": "T1",
+    "firstName": "Tech",
+    "lastName": "Dave",
+    "email": "dave@dwu.ac.pg",
+    "userType": "Technician"
+  }
+]
