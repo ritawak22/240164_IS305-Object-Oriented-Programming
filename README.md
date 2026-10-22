@@ -47,4 +47,4 @@ The system uses a layered architecture:
 4. Run tests using `node --test tests.js`.
 
 ## 8. Test Evidence
-Include a screenshot of your terminal showing `pass 10, fail 0` after running the tests.
+After running the test,  `pass 10, fail 0` 
